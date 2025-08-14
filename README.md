@@ -31,11 +31,13 @@ Test with Another Suite
 
 ## 📊 Reports
 
-HTML Report:
+HTML Report :
 
 Disimpan di folder Reports/Spark.html
 
-PDF Report:
+
+PDF Report :
+
 Disimpan di folder Reports/ExtentReport.pdf
 
 ---
