@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Main Test">
+    <test name="Test Math">
+        <classes>
+            <class name="com.juaracoding.ecom.runner.TestRunner"></class>
+        </classes>
+    </test>
+</suite>
