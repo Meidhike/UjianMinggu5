@@ -27,9 +27,12 @@ Running test with the following command:
 Test with Another Suite
 `mvn clean test -Dsurefire.suiteXmlFiles=src/test/resources/testng.xml`
 
+---
 
-📊 Reports
+## 📊 Reports
+
 HTML Report:
+
 Disimpan di folder Reports/Spark.html
 
 PDF Report:
